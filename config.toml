@@ -93,7 +93,7 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Project: ggplot"
-      subtitle = ggplot in r studio
+      subtitle = "using ggplot in r studio"
       image = "projects/choropleth.png"
       url = "projects/choropleth"
 
