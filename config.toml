@@ -86,8 +86,8 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     [[params.tiles.showcase]]
-      title = "Project: Rapid Facial Mimicry in preschoolers"
-      subtitle = "is RFM affiliative in young children?"
+      title = "Project: cleaning EMG data"
+      subtitle = "cleaning EMG data"
       image = "projects/coffee.png"
       url = "projects/coffee"
     
