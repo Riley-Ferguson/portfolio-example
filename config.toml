@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Portfolio for Ted Laderas, PhD"
+title = "Riley's Portfolio"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Ted Laderas"
-  description = "Portfolio/CV for Ted Laderas"
+  name = "Riley Ferguson"
+  description = "Portfolio/CV for Riley Ferguson"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -39,8 +39,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Ted Laderas, PhD"
-    subtitle = "Data Scientist, Educator, and Collaborator"
+    title = "Riley Ferguson"
+    subtitle = "Honours student, interested in developmental pscyhology"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -75,8 +75,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Ted Laderas, PhD"
-    subtitle = "Portfolio of Data Science and Visualization Projects"
+    title = "Riley Ferguson"
+    subtitle = "Honours student, interested in developmental pscyhology"
     buttonText = "Curriculum Vitae"
     url = "cv/"
 
@@ -86,20 +86,20 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     [[params.tiles.showcase]]
-      title = "Project: Understanding Coffee Scores"
-      subtitle = "Does processing method influence overall score?"
+      title = "Project: Rapid Facial Mimicry in preschoolers"
+      subtitle = "is RFM affiliative in young children?"
       image = "projects/coffee.png"
       url = "projects/coffee"
     
     [[params.tiles.showcase]]
-      title = "Project: Choropleth of Ready for R Class"
-      subtitle = "Where are the Ready for R Students From?"
+      title = "Project: ggplot"
+      subtitle = ggplot in r studio
       image = "projects/choropleth.png"
       url = "projects/choropleth"
 
     [[params.tiles.showcase]]
-      title = "Project: Animal Crossing Tidy Tuesday"
-      subtitle = "What personality/animal combos are unique?"
+      title = "ggeasy"
+      subtitle = "using ggeasy in rstudio"
       image = "projects/ac.png"
       url = "projects/animal_crossing"
 
@@ -173,7 +173,7 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "tedladeras (at) gmail.com"
+    email = "rileyferguson93@gmail.com"
 
     [[params.contact.phone]]
     title = "Phone"
